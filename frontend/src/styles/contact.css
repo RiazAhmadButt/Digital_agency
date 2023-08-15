@@ -1,0 +1,13 @@
+
+@media only screen and (max-width:768px){
+.g-3{
+    width: 100%;
+}
+.hero__content{
+    margin: 0%;
+    padding: 0%;
+}
+}
+.wym{
+    padding: 20px 20px;
+}
